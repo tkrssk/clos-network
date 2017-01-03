@@ -1,7 +1,7 @@
 # clos network
 ![img](http://blog.westmonroepartners.com/wp-content/uploads/2015/02/Leaf-Spine.jpg)
 
-This is a sample of spine-leaf topology network that is called clos network. The network was invented by Charles Clos in 1952. Recently, a traditional three-tiered model based Layer 2 spanning-tree protocol is replaced by spine-leaf topology based Layer 3 routing in huge web service companies. Clos network has more redundancy and scaling that it's benefits for much East-West traffic environment. 
+This is a sample of spine-leaf topology network that is called clos network. The network was invented by Charles Clos in 1952. Recently, a traditional three-tiered model based Layer 2 spanning-tree protocol is replaced by spine-leaf topology based Layer 3 routing in huge web service companies. Clos network has more redundancy and scalability that it's benefits for much East-West traffic environment. 
 
 ## this sample
 * this sample is 4 spines and 4 leafs topology based Border Gateway Protocol.
@@ -10,7 +10,7 @@ This is a sample of spine-leaf topology network that is called clos network. The
 ## condition
 * Vagrant
 * CumlusVX 3.2.0
-* 4GB memory
+* 4GB RAM
 
 ## addres asign
 ### loopback and AS number
