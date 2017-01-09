@@ -46,6 +46,6 @@ This is a sample of spine-leaf topology network that is called clos network. The
 | spine4  | 192.168.101.61/30  | 192.168.101.62/30  | leaf4   |
 
 ## reference
-http://blog.westmonroepartners.com/a-beginners-guide-to-understanding-the-leaf-spine-network-topology/
-https://cumulusnetworks.com/blog/serverspec/
-https://github.com/CumulusNetworks/cldemo-tests
+http://blog.westmonroepartners.com/a-beginners-guide-to-understanding-the-leaf-spine-network-topology/  
+https://cumulusnetworks.com/blog/serverspec/  
+https://github.com/CumulusNetworks/cldemo-tests  
